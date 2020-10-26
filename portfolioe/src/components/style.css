@@ -1,0 +1,13 @@
+.taille{
+    font-size: 4rem;
+   margin-top: 1rem;
+   margin-left: 3.3rem;
+   color: tomato;
+   border-color: tomato;
+}
+
+svg.MuiSvgIcon-root.taille{
+    font-size: 3.5rem;
+
+}
+

@@ -1,0 +1,7 @@
+body {
+    background: url('./image/file/coffee-apple.jpg') center center fixed;
+    -webkit-background: cover;
+    -moz-background: cover;
+    -moz-background: cover;
+    background: cover;
+}
